@@ -1,9 +1,4 @@
-//
-//  PawsApp.swift
-//  Paws
-//
-//  Created by Wajd on 19/08/2025.
-//
+
 
 import SwiftUI
 import SwiftData
